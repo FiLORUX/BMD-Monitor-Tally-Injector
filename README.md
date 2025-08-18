@@ -1,4 +1,4 @@
-# Sony CCU to Blackmagic Monitor Tally via Arduino
+# Sony + GV CCU Camera to Blackmagic Monitor Tally via Arduino
 
 This repository contains a complete, self‑contained Arduino project that
 converts simple contact–closure tally signals from a Sony camera control unit
