@@ -25,3 +25,9 @@ Thumbs.db
 
 # Local configuration
 platformio.local.ini
+
+# AI/LLM local settings
+.claude/
+.cursor/
+.aider/
+.continue/
